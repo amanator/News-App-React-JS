@@ -7,7 +7,7 @@ import Navbar from './components/Navbar.js';
 import News from './components/News';
 
 const App = ()=> {
-  // 4b4819d753b14b40872bc478fb909f8f
+
   const apikey = process.env.REACT_APP_NEWS_API
 
 
