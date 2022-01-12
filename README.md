@@ -1,3 +1,5 @@
+New App induces News from different categories which are fetched through a news api.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
